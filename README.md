@@ -1,4 +1,4 @@
-# This calculator helps in doing easy claculations and which designed by me.
+# This calculator helps in doing easy claculations and which was designed by me.
 # Technology used are -->
 1. HTML
 2. CSS
